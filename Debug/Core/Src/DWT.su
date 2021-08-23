@@ -1,0 +1,2 @@
+DWT.c:10:7:getTimeUs	24	static
+DWT.c:16:7:getTimeMs	24	static
